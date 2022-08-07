@@ -1,0 +1,845 @@
+{
+    "stocks":[
+        {
+         "id": "ORG001",
+         "companyName": "Company-1",
+         "stockPrice": 0.55,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG002",
+         "companyName": "Company-2",
+         "stockPrice": 1.02,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG003",
+         "companyName": "Company-3",
+         "stockPrice": 1.49,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG004",
+         "companyName": "Company-4",
+         "stockPrice": 1.96,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG005",
+         "companyName": "Company-5",
+         "stockPrice": 2.43,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG006",
+         "companyName": "Company-6",
+         "stockPrice": 2.9,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG007",
+         "companyName": "Company-7",
+         "stockPrice": 3.37,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG008",
+         "companyName": "Company-8",
+         "stockPrice": 3.84,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG009",
+         "companyName": "Company-9",
+         "stockPrice": 4.31,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG010",
+         "companyName": "Company-10",
+         "stockPrice": 4.78,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG011",
+         "companyName": "Company-11",
+         "stockPrice": 5.25,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG012",
+         "companyName": "Company-12",
+         "stockPrice": 5.72,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG013",
+         "companyName": "Company-13",
+         "stockPrice": 6.19,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG014",
+         "companyName": "Company-14",
+         "stockPrice": 6.66,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG015",
+         "companyName": "Company-15",
+         "stockPrice": 7.13,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG016",
+         "companyName": "Company-16",
+         "stockPrice": 7.6,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG017",
+         "companyName": "Company-17",
+         "stockPrice": 8.07,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG018",
+         "companyName": "Company-18",
+         "stockPrice": 8.54,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG019",
+         "companyName": "Company-19",
+         "stockPrice": 9.01,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG020",
+         "companyName": "Company-20",
+         "stockPrice": 9.48,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG021",
+         "companyName": "Company-21",
+         "stockPrice": 9.95,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG022",
+         "companyName": "Company-22",
+         "stockPrice": 10.42,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG023",
+         "companyName": "Company-23",
+         "stockPrice": 10.89,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG024",
+         "companyName": "Company-24",
+         "stockPrice": 11.36,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG025",
+         "companyName": "Company-25",
+         "stockPrice": 11.83,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG026",
+         "companyName": "Company-26",
+         "stockPrice": 12.3,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG027",
+         "companyName": "Company-27",
+         "stockPrice": 12.77,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG028",
+         "companyName": "Company-28",
+         "stockPrice": 13.24,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG029",
+         "companyName": "Company-29",
+         "stockPrice": 13.71,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG030",
+         "companyName": "Company-30",
+         "stockPrice": 14.18,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG031",
+         "companyName": "Company-31",
+         "stockPrice": 14.65,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG032",
+         "companyName": "Company-32",
+         "stockPrice": 15.12,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG033",
+         "companyName": "Company-33",
+         "stockPrice": 15.59,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG034",
+         "companyName": "Company-34",
+         "stockPrice": 16.06,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG035",
+         "companyName": "Company-35",
+         "stockPrice": 16.53,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG036",
+         "companyName": "Company-36",
+         "stockPrice": 17,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG037",
+         "companyName": "Company-37",
+         "stockPrice": 17.47,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG038",
+         "companyName": "Company-38",
+         "stockPrice": 17.94,
+         "date": "6/30/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG039",
+         "companyName": "Company-39",
+         "stockPrice": 18.41,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG040",
+         "companyName": "Company-40",
+         "stockPrice": 18.88,
+         "date": "6/30/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG001",
+         "companyName": "Company-1",
+         "stockPrice": 1.55,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG002",
+         "companyName": "Company-2",
+         "stockPrice": 2.01,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG003",
+         "companyName": "Company-3",
+         "stockPrice": 2.4699999999999998,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG004",
+         "companyName": "Company-4",
+         "stockPrice": 2.93,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG005",
+         "companyName": "Company-5",
+         "stockPrice": 3.39,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG006",
+         "companyName": "Company-6",
+         "stockPrice": 3.85,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG007",
+         "companyName": "Company-7",
+         "stockPrice": 4.31,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG008",
+         "companyName": "Company-8",
+         "stockPrice": 4.77,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG009",
+         "companyName": "Company-9",
+         "stockPrice": 5.23,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG010",
+         "companyName": "Company-10",
+         "stockPrice": 5.6899999999999995,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG011",
+         "companyName": "Company-11",
+         "stockPrice": 6.15,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG012",
+         "companyName": "Company-12",
+         "stockPrice": 6.61,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG013",
+         "companyName": "Company-13",
+         "stockPrice": 7.07,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG014",
+         "companyName": "Company-14",
+         "stockPrice": 7.53,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG015",
+         "companyName": "Company-15",
+         "stockPrice": 7.99,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG016",
+         "companyName": "Company-16",
+         "stockPrice": 8.45,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG017",
+         "companyName": "Company-17",
+         "stockPrice": 8.91,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG018",
+         "companyName": "Company-18",
+         "stockPrice": 9.37,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG019",
+         "companyName": "Company-19",
+         "stockPrice": 9.83,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG020",
+         "companyName": "Company-20",
+         "stockPrice": 10.29,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG021",
+         "companyName": "Company-21",
+         "stockPrice": 10.75,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG022",
+         "companyName": "Company-22",
+         "stockPrice": 11.21,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG023",
+         "companyName": "Company-23",
+         "stockPrice": 11.67,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG024",
+         "companyName": "Company-24",
+         "stockPrice": 12.13,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG025",
+         "companyName": "Company-25",
+         "stockPrice": 12.59,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG026",
+         "companyName": "Company-26",
+         "stockPrice": 13.05,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG027",
+         "companyName": "Company-27",
+         "stockPrice": 13.51,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG028",
+         "companyName": "Company-28",
+         "stockPrice": 13.97,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG029",
+         "companyName": "Company-29",
+         "stockPrice": 14.43,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG030",
+         "companyName": "Company-30",
+         "stockPrice": 14.89,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG031",
+         "companyName": "Company-31",
+         "stockPrice": 15.35,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG032",
+         "companyName": "Company-32",
+         "stockPrice": 15.81,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG033",
+         "companyName": "Company-33",
+         "stockPrice": 16.27,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG034",
+         "companyName": "Company-34",
+         "stockPrice": 16.73,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG035",
+         "companyName": "Company-35",
+         "stockPrice": 17.19,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG036",
+         "companyName": "Company-36",
+         "stockPrice": 17.65,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG037",
+         "companyName": "Company-37",
+         "stockPrice": 18.11,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG038",
+         "companyName": "Company-38",
+         "stockPrice": 18.57,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG039",
+         "companyName": "Company-39",
+         "stockPrice": 19.03,
+         "date": "7/1/2022",
+         "time": "8:55 pm"
+        },
+        {
+         "id": "ORG040",
+         "companyName": "Company-40",
+         "stockPrice": 19.49,
+         "date": "7/1/2022",
+         "time": "8:45 pm"
+        },
+        {
+         "id": "ORG001",
+         "companyName": "Company-1",
+         "stockPrice": 1.55,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG002",
+         "companyName": "Company-2",
+         "stockPrice": 2.01,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG003",
+         "companyName": "Company-3",
+         "stockPrice": 2.4699999999999998,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG004",
+         "companyName": "Company-4",
+         "stockPrice": 2.93,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG005",
+         "companyName": "Company-5",
+         "stockPrice": 3.39,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG006",
+         "companyName": "Company-6",
+         "stockPrice": 3.85,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG007",
+         "companyName": "Company-7",
+         "stockPrice": 4.31,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG008",
+         "companyName": "Company-8",
+         "stockPrice": 4.77,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG009",
+         "companyName": "Company-9",
+         "stockPrice": 5.23,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG010",
+         "companyName": "Company-10",
+         "stockPrice": 5.6899999999999995,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG011",
+         "companyName": "Company-11",
+         "stockPrice": 6.15,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG012",
+         "companyName": "Company-12",
+         "stockPrice": 6.61,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG013",
+         "companyName": "Company-13",
+         "stockPrice": 7.07,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG014",
+         "companyName": "Company-14",
+         "stockPrice": 7.53,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG015",
+         "companyName": "Company-15",
+         "stockPrice": 7.99,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG016",
+         "companyName": "Company-16",
+         "stockPrice": 8.45,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG017",
+         "companyName": "Company-17",
+         "stockPrice": 8.91,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG018",
+         "companyName": "Company-18",
+         "stockPrice": 9.37,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG019",
+         "companyName": "Company-19",
+         "stockPrice": 9.83,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG020",
+         "companyName": "Company-20",
+         "stockPrice": 10.29,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG021",
+         "companyName": "Company-21",
+         "stockPrice": 10.75,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG022",
+         "companyName": "Company-22",
+         "stockPrice": 11.21,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG023",
+         "companyName": "Company-23",
+         "stockPrice": 11.67,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG024",
+         "companyName": "Company-24",
+         "stockPrice": 12.13,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG025",
+         "companyName": "Company-25",
+         "stockPrice": 12.59,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG026",
+         "companyName": "Company-26",
+         "stockPrice": 13.05,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG027",
+         "companyName": "Company-27",
+         "stockPrice": 13.51,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG028",
+         "companyName": "Company-28",
+         "stockPrice": 13.97,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG029",
+         "companyName": "Company-29",
+         "stockPrice": 14.43,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG030",
+         "companyName": "Company-30",
+         "stockPrice": 14.89,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG031",
+         "companyName": "Company-31",
+         "stockPrice": 15.35,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG032",
+         "companyName": "Company-32",
+         "stockPrice": 15.81,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG033",
+         "companyName": "Company-33",
+         "stockPrice": 16.27,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG034",
+         "companyName": "Company-34",
+         "stockPrice": 16.73,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG035",
+         "companyName": "Company-35",
+         "stockPrice": 17.19,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG036",
+         "companyName": "Company-36",
+         "stockPrice": 17.65,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG037",
+         "companyName": "Company-37",
+         "stockPrice": 18.11,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG038",
+         "companyName": "Company-38",
+         "stockPrice": 18.57,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        },
+        {
+         "id": "ORG039",
+         "companyName": "Company-39",
+         "stockPrice": 19.03,
+         "date": "7/1/2022",
+         "time": "8:01 pm"
+        },
+        {
+         "id": "ORG040",
+         "companyName": "Company-40",
+         "stockPrice": 19.49,
+         "date": "7/1/2022",
+         "time": "9:01 am"
+        }
+       ],
+    "nothing":""
+}
